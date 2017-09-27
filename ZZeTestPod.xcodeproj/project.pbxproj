@@ -114,7 +114,7 @@
 					};
 				};
 			};
-			buildConfigurationList = 75789EB21F7A598700DAE228 /* Build configuration list for PBXProject "TestPod" */;
+			buildConfigurationList = 75789EB21F7A598700DAE228 /* Build configuration list for PBXProject "ZZeTestPod" */;
 			compatibilityVersion = "Xcode 3.2";
 			developmentRegion = English;
 			hasScannedForEncodings = 0;
@@ -295,7 +295,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		75789EB21F7A598700DAE228 /* Build configuration list for PBXProject "TestPod" */ = {
+		75789EB21F7A598700DAE228 /* Build configuration list for PBXProject "ZZeTestPod" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				75789ECC1F7A598800DAE228 /* Debug */,
@@ -311,6 +311,7 @@
 				75789ED01F7A598800DAE228 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};

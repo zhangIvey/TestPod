@@ -18,6 +18,5 @@ s.name         = "TestPod"
     s.social_media_url   = "http://weibo.com/u/5348162268"
     s.source       = { :git => "https://github.com/zhangIvey/TestPod.git", :tag => s.version }
     s.source_files  = "TestPod/*.{h,m}"
-    s.resources          = "TestPod/TestPod.bundle"
     s.requires_arc = true
 end

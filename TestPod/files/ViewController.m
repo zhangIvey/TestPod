@@ -27,10 +27,12 @@
 
 - (void)doActionA {
     NSLog(@"执行事务A");
+    NSLog(@"版本1.0.2");
 }
 
 - (void)doActionB {
     NSLog(@"执行事务B");
+    NSLog(@"版本1.0.2");
 }
 
 
